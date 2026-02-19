@@ -12,3 +12,17 @@ Official professional portfolio showcasing high-end visual storytelling, strateg
 * HTML5
 * CSS3
 * JavaScript
+
+## Getting Started
+
+To get a local copy up and running, follow these steps:
+
+1. Clone the repository
+2. Open the project in your preferred IDE
+3. Configure your database settings
+4. Run the application
+
+## Contact
+
+LinkedIN - www.linkedin.com/in/deepanraj-ad
+Project Link: 
